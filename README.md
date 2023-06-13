@@ -15,7 +15,7 @@ represented by dynamic programming as well as another metaheuristic method (GVNS
 <div align="center" >
 
 <a style href="https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/" >
-<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/blob/main/imgs/HomePage.png" >
+<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/imgs/HomePage.png" >
 <p>Click here to see the demo</p>
  
 </a>
@@ -34,21 +34,21 @@ The user can also generate a visualization graph to view the minimum path and th
 
 - Pseudocode de TSP :computer:
 
-<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/blob/main/imgs/pseudo_code.png" >
+<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/imgs/pseudo_code.png" >
 
 ### :full_moon_with_face: Dynammic Approach 
-<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/blob/main/imgs/DP.png" >
+<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/imgs/DP.png" >
 
 ### :new_moon_with_face: Metaheuristic Approach (GVNS)
-<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/blob/main/imgs/GVNS.png" >
+<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/imgs/GVNS.png" >
 
  ### :balloon: Graph succesfuly generated 
  You can download the graph with the button below :) 
  
- <img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/blob/main/imgs/Graph_succes.png" >
+ <img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/imgs/Graph_succes.png" >
  
 ### Mobile view :vibration_mode:
-<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/blob/main/imgs/mobile.png" >
+<img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/imgs/mobile.png" >
 
 ### Install :arrow_down:
 
