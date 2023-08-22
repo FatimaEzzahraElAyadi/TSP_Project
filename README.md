@@ -10,11 +10,10 @@ represented by dynamic programming as well as another metaheuristic method (GVNS
 
 </p>
 
-### Demo  __click on the link below__ : :100:
+### About  __the project__ : :100:
  
 <div align="center" >
 
-<a style href="https://boutainaelyaziji-tsp-project-app-cod2bj.streamlit.app/" >
 <img  src="https://github.com/FatimaEzzahraElAyadi/TSP_Project/blob/master/imgs/HomePage.png" >
  
 </a>
